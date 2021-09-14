@@ -2,8 +2,8 @@
 @font-face {
   font-family: 'SAP Fiori Icons';
   src:
-    url('https://astathkoeln.de/fonts/SAP-icons.woff2') format('woff2'),
-    url('https://astathkoeln.de/fonts/SAP-icons.woff2/SAP-icons.ttf') format('truetype');
+    url('https://nail-sv.github.io/fonts/SAP-icons.woff2') format('woff2'),
+    url('https://nail-sv.github.io/fonts/SAP-icons.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
